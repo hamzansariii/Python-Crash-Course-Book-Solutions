@@ -1,0 +1,8 @@
+
+Name : Hamza
+language : python
+Reason : its easy
+
+Name : yousuf
+language : c
+Reason : its basic
